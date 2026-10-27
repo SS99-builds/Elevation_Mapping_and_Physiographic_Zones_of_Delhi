@@ -11,7 +11,7 @@ Physiographic classification and terrain modeling of the National Capital Territ
 
 - **Spatial Resolution:** 30 meters
 
-- **Vertical Datum:** EGM2008 Geoid
+- **Elevation Reference:** Mean Sea Level (MSL)
 
 - **Target Area:** National Capital Territory of Delhi (NCT)
 
@@ -37,6 +37,9 @@ Physiographic classification and terrain modeling of the National Capital Territ
 The interactive 3D terrain model is hosted live on GitHub Pages:  
 [View Live 3D Model](https://ss99-builds.github.io/Elevation_Mapping_and_Physiographic_Zones_of_Delhi/)
 
-## Disclaimer & Contributions
+## Data availability
+DOI link : (coming soon.)
+
+## Disclaimer
 This is an independent exploratory analysis created as part of learning QGIS and 3D spatial visualization workflows. Since this is an initial work by a beginner, there may be oversights or methodological limitations. Feedback, corrections, and suggestions for improvement are most welcome! Feel free to open an issue or submit a pull request.
 
