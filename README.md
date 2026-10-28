@@ -15,6 +15,7 @@ Physiographic classification and terrain modeling of the National Capital Territ
 
 - **Target Area:** National Capital Territory of Delhi (NCT)
 
+- **Software:** QGIS
 
 ## Workflow & Methodology
 1. **Data Acquisition:** Copernicus DEM GLO-30 tiles.
