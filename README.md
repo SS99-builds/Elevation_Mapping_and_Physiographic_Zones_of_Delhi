@@ -39,7 +39,7 @@ The interactive 3D terrain model is hosted live on GitHub Pages:
 [View Live 3D Model](https://ss99-builds.github.io/Elevation_Mapping_and_Physiographic_Zones_of_Delhi/)
 
 ## Data availability
-DOI link : (coming soon.)
+DOI link : Zenodo(https://doi.org/10.5281/zenodo.23720525)
 
 ## Disclaimer
 This is an independent exploratory analysis created as part of learning QGIS and 3D spatial visualization workflows. Since this is an initial work by a beginner, there may be oversights or methodological limitations. Feedback, corrections, and suggestions for improvement are most welcome! Feel free to open an issue or submit a pull request.
